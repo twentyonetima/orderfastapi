@@ -10,8 +10,9 @@ git clone https://github.com/twentyonetima/orderfastapi.git
 ### 2. Create venv
 
 ```bash
-python3 -m venv venv
+python -m venv venv
 source venv/bin/activate
+pip install -r rq.txt
 ```
 
 ### 3. Up in docker
