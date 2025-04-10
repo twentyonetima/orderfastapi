@@ -3,3 +3,8 @@
 /alembic/versions
 __pycache__/
 *.pyc
+alembic/__pycache__/
+core/__pycache__/
+order/__pycache__/
+order/tasks/__pycache__/
+users/__pycache__/
