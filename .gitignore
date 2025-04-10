@@ -1,3 +1,5 @@
 .idea
 .venv
 /alembic/versions
+__pycache__/
+*.pyc
